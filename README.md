@@ -2,7 +2,11 @@
 
 <hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gekker0220&theme=dark&border_radius=10&mode=weekly&card_width=500)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=gekker0220&theme=dark&border_radius=10&mode=weekly&card_width=500)](https://git.io/streak-stats)
+  
+</div>
 
 <h3>Skill</h3>
 

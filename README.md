@@ -24,8 +24,9 @@
 
 <h3>Contect</h3>
 
-<span>
+
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<span>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gekker0220@gmail.com)](mailto:gekker0220@gmail.com)
 </span>
 <a href="https://www.instagram.com/eunkyokiiiiim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>

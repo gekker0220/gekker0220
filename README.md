@@ -19,8 +19,10 @@
 <span>![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</span>
 
 <h3>Contect</h3>
-<a href=https://gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gekker0220@gmail.com)](mailto:gekker0220@gmail.com)
+
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.instagram.com/eunkyokiiiiim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br>
 
